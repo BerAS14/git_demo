@@ -31,3 +31,4 @@ chorus
 	No time for losers
 	Cause we are the champions of the world
 
+END
